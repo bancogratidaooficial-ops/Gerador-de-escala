@@ -1,0 +1,13 @@
+{
+  "name": "Escala 5x1 - Folguista Madrugada",
+  "short_name": "Escala 5x1",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1F4E79",
+  "theme_color": "#1F4E79",
+  "icons": [{
+    "src": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
